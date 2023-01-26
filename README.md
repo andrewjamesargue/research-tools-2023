@@ -69,6 +69,9 @@
     - Daily notes
     - Calendar
     - Dataview
+    - Pdf annotator
+    - Enable tag sidebar
+    - Obsidian sync
 
 3.  Taking notes vs making notes
     - Zettelkasten
