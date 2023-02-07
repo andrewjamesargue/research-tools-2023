@@ -8,19 +8,28 @@
 # Table of Contents
 
 ## Part 0 - Endless alternatives
-1. Apple notes
-2. Google Keep
-3. Evernote
-4. Notion
-5. Logseq
-6. Roam Research
-5. Why Obsidian?
-    - Markdown
-    - Local
-    - Free
-    - Support  
 
-    ![Obsidian Community](/images/obsidian-interest.png "Growth of Reddit community")
+| Software              | Link                                  |
+| -----------           | -----------                           |
+| Apple Notes           | https://www.icloud.com/notes          |
+| Google Keep           | https://keep.google.com               |
+| Evernote              | https://evernote.com/                 |
+| Notion                | https://www.notion.so/                |
+| Logseq                | https://logseq.com/                   |
+| Roam Research         | https://roamresearch.com/             |
+
+-  Why Obsidian?  
+    - Markdown syntax is easy  
+    - Can store files locally  
+    - It is free  
+    - Lots of online support  
+
+<br/>
+
+
+![Obsidian Community](/images/obsidian-interest.png "Growth of Reddit community")  
+
+<br/>
 
 ## Part 1 - Obsidian to create notes
 1. Install
